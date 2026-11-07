@@ -1,2 +1,5 @@
-# UP-TP-Computacion-Aplicada
-TP integrador - Computación Aplicada - UP.
+# TP Integrador - Computación Aplicada
+
+Universidad de Palermo - Prof. Adolfo Deluca
+
+**Alumna:** Marina Caminos
